@@ -1,6 +1,6 @@
 PROJECT TITLE
 
-AI-Powered SMS Spam Detection System with Explainable AI
+AI-Powered SMS Spam Detection System using Machine Learning
 
 Project Overview
 
